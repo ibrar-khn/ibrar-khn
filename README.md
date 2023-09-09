@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/997525296754462830/1060550267747176559/Group_109.png" />
+<!--   <img src="https://cdn.discordapp.com/attachments/997525296754462830/1060550267747176559/Group_109.png" /> -->
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankumar-1998&label=Profile%20views&color=0e75b6&style=flat" alt="pawankumar-1998" /> </p>
